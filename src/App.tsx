@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import {Heart,Stars,XCircle,CheckCircle2,Gift,Music,Coffee,} from 'lucide-react';
+import {Heart,Stars,XCircle,CheckCircle2,Gift,Music,Coffee} from 'lucide-react';
 
 function App() {
   // Estados del componente
